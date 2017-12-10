@@ -1,0 +1,16 @@
+This is the source code for the 'Adding Content to the JIRA View Issue Page' JIRA Plugin Tutorial, which is available at:
+
+https://developer.atlassian.com/display/JIRADEV/Plugin+Tutorial+-+Adding+Content+to+the+JIRA+View+Issue+Page
+
+
+To start using the Atlassian Plugin SDK, here are some SDK commands you'll be able to use immediately:
+
+* atlas-run   -- installs this plugin into JIRA and starts it on http://localhost:2990/jira
+* atlas-debug -- same as atlas-run, but allows a debugger to attach at port 5005
+* atlas-cli   -- after atlas-run or atlas-debug, opens a Maven command line window:
+                 - 'pi' reinstalls the plugin into the running JIRA instance
+* atlas-help  -- prints description for all commands in the SDK
+
+Full Atlassian Plugin SDK documentation is always available at:
+
+http://confluence.atlassian.com/display/DEVNET/Developing+your+Plugin+using+the+Atlassian+Plugin+SDK
